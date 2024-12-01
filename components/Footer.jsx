@@ -45,16 +45,16 @@ const Footer = () => {
                         <Link className="hover:text-gray-300" href="/comment-policy">
                             Comment Policy
                         </Link>
-                        <Link className="hover:text-gray-300" href="mailto:zeeshiiscool@gmail.com">
+                        <Link className="hover:text-gray-300" href="mailto:vantejares@gmail.com">
                             Contact
                         </Link>
                     </div>
                     <p className="text-sm text-gray-400">
-                        Weeblo does not store any files on our server, we only use 3rd party media services.
+                        papawatch does not store any files on our server, we only use 3rd party media services.
                     </p>
                 </div>
                 <div className="text-center sm:space-x-10 flex flex-wrap items-center justify-center pt-4">
-                    <p className="text-sm text-gray-400">© Weeblo.to All rights reserved.</p>
+                    <p className="text-sm text-gray-400">© papawatch.site All rights reserved.</p>
                     <div className='flex flex-wrap items-center text-sm text-gray-400'><p className="text-sm mr-[0.5rem]">This site uses</p> <Link href="https://kitsu.io/explore/anime" className='text-secondary hover:underline'>Kitsu API</Link> <p className='ml-[0.5rem]'> for 3rd party data.</p></div>
                 </div>
             </div>
